@@ -2,7 +2,7 @@
 
 Console python utility for PAN searching in files
 
-            |\
+```            |\
    \`-. _.._| \
     |_,'  __`. \
     (.\ _/.| _  |
@@ -11,7 +11,7 @@ Console python utility for PAN searching in files
 (PAN  ,/|||||/  |
    `-'_----    /
       /`-._.-'/
-      `-.__.-' 
+      `-.__.-'```
 
 ### Prerequisites
 
