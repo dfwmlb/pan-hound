@@ -46,7 +46,6 @@ def find(cfg):
                     pan.append(str)
 
             if pan:
-                one_match = pan[0]
                 print '{} matches in {}'.format(len(pan), filepath)
 
             else:
