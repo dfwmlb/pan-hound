@@ -8,10 +8,10 @@ Console python utility for PAN searching in files
     (.\ _/.| _  |
    ,'      __ \ |
  ,'     __/||\  |
-(Y8P  ,/|||||/  |
+(PAN  ,/|||||/  |
    `-'_----    /
       /`-._.-'/
-      `-.__.-' jg
+      `-.__.-' 
 
 ### Prerequisites
 
