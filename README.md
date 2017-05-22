@@ -27,13 +27,16 @@ python2.7
 
 WIP. Just copy-paste the code and give run permissions to file:
 
-```[username@localhost ~]$ cmod u+x pan-hound.py```
+```
+[username@localhost ~]$ cmod u+x pan-hound.py
+```
 
 ## Running
 
 WIP. 
 
-```[username@localhost ~]$ ./pan-hound.py -h
+```
+[username@localhost ~]$ ./pan-hound.py -h
 usage: pan-hound.py [-h] [--dir DIR] [--glob GLOB]
 
 DESCRIPTION:
@@ -48,4 +51,5 @@ USAGE:
     pan-hound.py -d [my_folder] -g [glob_pattern]
 [username@localhost ~]$
 [username@localhost ~]$ ./pan-hound.py -d path/to/folder/
-17 matches in /home/username/path/to/folder/file.with.pan```
+17 matches in /home/username/path/to/folder/file.with.pan
+```
