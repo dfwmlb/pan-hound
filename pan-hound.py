@@ -42,14 +42,11 @@ def find(cfg):
 
             pan = []
             for str in all_matches:
-                if cardLuhnChecksumIsValid(str) == 1:
+                if cardLuhnChecksumIsValid(str):
                     pan.append(str)
 
             if pan:
                 print '{} matches in {}'.format(len(pan), filepath)
-
-            else:
-                pass
 
 if __name__ == '__main__':
 
