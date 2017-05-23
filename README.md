@@ -28,7 +28,7 @@ python2.7
 WIP. Just copy-paste the code and give run permissions to file:
 
 ```
-[username@localhost ~]$ cmod u+x pan-hound.py
+[username@localhost ~]$ chmod u+x pan-hound.py
 ```
 
 ## Running
