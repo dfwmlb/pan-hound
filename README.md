@@ -28,7 +28,8 @@ python2.7
 WIP. Just copy-paste the code and give run permissions to file:
 
 ```
-[username@localhost ~]$ chmod u+x pan-hound.py
+curl -O https://github.com/dfwmlb/pan-hound/blob/master/pan-hound.py
+chmod u+x pan-hound.py
 ```
 
 ## Running
